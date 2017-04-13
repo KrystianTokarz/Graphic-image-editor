@@ -3,8 +3,8 @@
 Project on computer graphics subject
 
 ## Authors
-  Krystian Tokarz
-  Artur Wicha 
+  -Krystian Tokarz
+  -Artur Wicha 
 
 ## Description
 
