@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480158779 source:c:\users\kryst\desktop\allegro\projekt\projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	<string.h>
+
